@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    font-family:Pirata One;
+}
+
+#image {
+    border-radius: 360px;
+    margin: 25px;
+}
+
+.menu {
+    font-family:Pirata One;
+    position: fixed;
+    cursor: pointer;
+    top: 0px;
+    z-index: 10;
+    list-style: none;
+    background-color:white;
+    width:100%;
+    margin-top:0px;
+}
+.links {
+    float:left;
+    color: #FFE101;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-right: 9px;
+    padding-left: 9px;
+    font-size: 20px;
+}
+
+.link:hover;
+
+    {
+    background-color: dodgerblue;
+}
+#writings a{
+    text-shadow:none !impotant;
+    text-decoration:underline !important;
+    color:yellow;
+}
